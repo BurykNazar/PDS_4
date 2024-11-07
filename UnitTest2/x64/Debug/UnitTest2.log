@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\Source.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\Source.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\Source.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\x64\Debug\UnitTest2.lib and object C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\x64\Debug\UnitTest2.dll

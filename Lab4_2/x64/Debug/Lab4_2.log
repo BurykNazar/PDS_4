@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\Source.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\Source.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\Source.cpp(67,27): warning C4018: '<': signed/unsigned mismatch
+  Lab4_2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Бурик\Лаб_4\Lab4_2\x64\Debug\Lab4_2.exe
